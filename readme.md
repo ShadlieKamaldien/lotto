@@ -1,1 +1,1 @@
-Using Azure ML to do a regression analysis on 5 years worth of data. 
+Using Azure ML along with JupyterLabs to inspect lottery data and provide combinations not seen in the data before. 
